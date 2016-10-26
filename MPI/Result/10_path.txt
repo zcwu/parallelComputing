@@ -1,0 +1,12 @@
+The shortest path from 0 to each vertex is:
+  v     Path 0->v
+----    ---------
+  1:    0 4 6 1 
+  2:    0 2 
+  3:    0 2 3 
+  4:    0 4 
+  5:    0 4 6 5 
+  6:    0 4 6 
+  7:    0 7 
+  8:    0 4 8 
+  9:    0 9 
